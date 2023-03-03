@@ -62,14 +62,20 @@ st.write(
     """
 )
 
-st.subheader('Future Works')
+
+st.subheader('Personal Fork')
 st.write(
     """
-    This tool is a work in progress and will continue to be developed moving forward. Adding other blockchains,
-    more KPIs and metrics, optimizing the code in general, enhancing the UI/UX of the tool, and more importantly,
-    improving the data pipeline by utilizing [**Flipside ShroomDK**](https://sdk.flipsidecrypto.xyz/shroomdk) are
-    among the top priorities for the development of this app. Feel free to share your feedback, suggestions, and
-    also critics with me.
+    This is a fork for personal development, tinkering and expirimentation. A boatload of credits to - and shoutouts to - the 
+    original creator and to Streamlit, a service like this was exactly what I was looking for. Anyone know something like this for R?
+    """
+)
+
+st.subheader('Original Creators')
+st.write(
+    """
+    Find details of original creator in the table below. I will keep tabs on the further developments on the main branch but
+    also have a few ideas of my own to pursue.
     """
 )
 
